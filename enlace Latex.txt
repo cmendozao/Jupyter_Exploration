@@ -1,0 +1,5 @@
+El siguiente enlace lo llevará a la plataforma de LATEX.
+
+Allí encontrará ejemplos y la simbología requerida para su uso.
+
+https://manualdelatex.com/
